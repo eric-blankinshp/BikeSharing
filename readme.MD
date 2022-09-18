@@ -9,7 +9,6 @@ link to story: https://public.tableau.com/app/profile/eric.blankinship/viz/BikeS
 
 ### Top Starting Locations
 
-![Top Starting Locations.png]
 
 ![alt text](Top Starting Locations.png)
 
