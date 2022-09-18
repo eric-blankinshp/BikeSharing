@@ -8,7 +8,7 @@ The results of this analysis will help make decisions for planning a Bike Share 
 link to story: https://public.tableau.com/app/profile/eric.blankinship/viz/BikeSharingChallenge_16631215506310/ConsumerBikeShareStory?publish=yes
 
 ### Top Starting Locations
-![alt text](http://url/to/TopStartingLocations.png)
+![alt text](TopStartingLocations.png)
 
 By adding the map, this image shows that the most popular starting locations tend to be near public transportation. Most likely, all are high foot-traffic areas. Although, on a smaller scale, it would be important to look for these types of areas for stations in Des Moines.
 
