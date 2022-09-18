@@ -10,46 +10,44 @@ link to story: https://public.tableau.com/app/profile/eric.blankinship/viz/BikeS
 ### Top Starting Locations
 ![alt text](TopStartingLocations.png)
 
-By adding the map, this image shows that the most popular starting locations tend to be near public transportation. Most likely, all are high foot-traffic areas. Although, on a smaller scale, it would be important to look for these types of areas for stations in Des Moines.
+By adding the map, this image shows that the most popular starting locations tend to be near public transportation. Most likely, all are high foot-traffic areas. We should likely for similar area in Des Moine to maximize our consumer base.
 
 ### Top Ending Locations
-
-<img width="766" alt="Top_Ending_Locations" src="https://user-images.githubusercontent.com/106006911/188964145-855ac646-b828-45a4-b4e6-6b54db0a86fe.png">
+![alt text](TopEndingLocations.png)
 
 The top ending locations follow the same trend, which will help with placement of stations.
 
-### Checkout Times for Users
-
-<img width="782" alt="Checkout_Time" src="https://user-images.githubusercontent.com/106006911/188964282-43685cff-ca6f-46fe-b8b1-7f6f64dfa354.png">
-
-This graph shows that a majority of users checkout bikes for around five minutes. This tells us that the need for destinations close to pick up are very important. Generally, bus and train stops need to be close to many destinations as well.
-
 ### Checkout Times by Gender
 
-<img width="780" alt="Checkout_Times_by_Gender" src="https://user-images.githubusercontent.com/106006911/188964358-0c83c7ae-6ecd-48e6-bb68-c264b1c71a77.png">
+![alt text](CheckoutTimesbyGender.png)
 
-Male usage is the highest among users. There could be ways to close the gap with different advertisements or promotions, but work attire could be the factor here. 
+This graph shows that a majority of users checkout bikes for around five minutes. This shows us that the need for destinations close to pick up are very important. Generally, bus and train stops need to be close to many destinations as well as a mode of tranport after the bike has been turned in. Male usage is the highest among users. There could be ways to close the gap with different advertisements or promotions, but work attire could be the factor here.
+
+### August Peak Hours
+
+![alt text](AugustPeakHours.png)
+
+The peak hours of August were in between 5PM and 6PM, we can come up with process improvements to have as many bikes as possible ready for transport.
 
 ### Trips by Weekday per Hour
 
-<img width="775" alt="Weekday_per_Hour" src="https://user-images.githubusercontent.com/106006911/188964722-fbfa4158-67fc-4a0f-bf15-87db049bee09.png">
+![alt text](TripsbyWeekdayperHour.png)
 
-This graph shows that while normal rush hour times are the most popular times during the week, weekends are busy as well. This makes it important to look for tourist and recreational areas as well. While it is very important to accommodate commuters, you can't forget about recreational riders.
+This graph supports our theory that our normal busiest days are from 5PM-6PM, however traffic between 9AM-10AM is a bit high as well. 
 
 ### Trips by Gender (Weekday per Hour)
 
-<img width="832" alt="Trips_by_Gender" src="https://user-images.githubusercontent.com/106006911/188964778-c65cdd80-a371-4952-8a1e-c2aaa8eb2a26.png">
+![alt text](TripsbyGender(WeekdayperHour).png)
 
-This heatmap shows the most popular times and days are the same for males and females. It matches with other charts that Monday thru Friday at rush hours are the most popular times. Unknown have a slightly heavier use on weekends.
+This heatmap shows the most popular times and days are the same for males and females. It matches with other charts that Monday thru Friday at rush hours are the most popular times. 
 
-### User Trips by Gender by Weekday
+### Average Trip Duration by BirthYear
 
-<img width="775" alt="Gender_by_Weekday" src="https://user-images.githubusercontent.com/106006911/188964854-eaa935ec-99d2-4648-bd35-fbb7283f4d9c.png">
+![alt text](AverageTripDurationbyBirthYear.png)
 
-This heat map shows that male subscribers are the biggest market. The busiest days, being weekdays, shows that regular use is what interests people in subscriptions. The average customer is primarily using this service for recreation, not necessity.
+The chart shows the average trip duration by birh year for all of our users. The trend shows that our order users have a slightly higher average than the younger ones
 
 ## Summary
 
 Overall, males were the primary users of Citibikes in New York City during August 2019. The most usage occurred Monday thru Friday and starting and ending locations of Citibike trips were the same. Additional analysis is needed in order to determine if Citibikes is a great fit for Des Moines, Iowa.
-An additional visualization that may help investors determine if Citibikes are a good fit for Des Moines would be to look at weather data. Both cities have four seasons, and if their temperatures and weather are similar, than this may also provide a stronger case to investors that Citibikes is a great fit for Des Moines, Iowa.
-Including information on public transportation use would would be another useful visualization. While on a smaller scale, adding this would be helpful for comparison. 
+Anpther visualization tp consider that may help investors determine if Citibikes are a good fit for Des Moines would be to look at weather data. If the weather is too harsh most of the year then may need to consider a differentr start up location for this venture
